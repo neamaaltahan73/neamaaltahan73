@@ -3,7 +3,11 @@
 ### 👩‍💻 About Me
 I am a **Software Engineer** and a proud graduate of **Informatics Engineering** from Damascus University. Currently, I am passionate about teaching and mentoring students as a **Practical Instructor & Teaching Assistant** at **Al-Sham Private University (ASPU)**.
 
-I love solving complex problems, whether it's through competitive programming (ACM ICPC), modeling systems with UML, or building mobile applications.
+I have a strong focus on **Front-end Development**, building responsive and user-friendly interfaces for both **Web and Mobile applications**. I enjoy bridging the gap between design and functionality to deliver seamless user experiences.
+
+
+
+
 
 ---
 
