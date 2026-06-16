@@ -41,7 +41,10 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-https://giphy.com/gifs/kid-2011-frSfC5NcmyF7q
+
+<p align="center">
+  <img src="https://giphy.com/gifs/kid-2011-frSfC5NcmyF7q" alt="Killua Pixel Art" width="200" />
+</p>
 
 
 
