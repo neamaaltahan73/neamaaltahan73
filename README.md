@@ -42,7 +42,7 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
 
-<p align="center" style="margin-left: 100px;">
+<p align="center" style="margin-left: 250px;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Ntb3dmczBnNjBvMDhlMWNoNzIxaXN2em1wMnk5Mnl6cTk4dWxqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4SdFG1BbqiJEI/giphy.gif" alt="Killua GIF" width="200" />
 </p>
 
