@@ -43,7 +43,7 @@ Here are some of the technologies and tools I work with:
 
 
 <p align="center" style="margin-left: 100px;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhqdGtyNXNyMXAyMzk2Y2tuaGNtMGpzZWFtdzR3OWY5eTRza2F6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h990T1luP7Fi8/giphy.gif" alt="Killua GIF" width="200" />
+  <img src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Ntb3dmczBnNjBvMDhlMWNoNzIxaXN2em1wMnk5Mnl6cTk4dWxqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4SdFG1BbqiJEI/giphy.gif" alt="Killua GIF" width="200" />
 </p>
 
 
