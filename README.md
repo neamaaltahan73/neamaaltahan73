@@ -29,12 +29,9 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-### 📫 Let's Connect
-*   **LinkedIn:** [Add your link here]
-*   **Telegram:** [Add your link here]
-*   **Email:** [Add your email here]
 
----
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neamaaltahan73&show_icons=true&theme=radical" alt="Neama's GitHub stats" />
