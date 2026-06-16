@@ -48,15 +48,9 @@ Here are some of the technologies and tools I work with:
 
 
 
-<div style="border: 2px solid #00d2ff; padding: 20px; border-radius: 15px; background-color: rgba(0, 210, 255, 0.05);">
-  <p style="font-size: 1.2em; font-style: italic; color: #333;">
-    "Programming is just like developing a Nen ability; it's not about how much code you write, but about how much precision and speed you control within your system."
-  </p>
-  <p style="text-align: right; font-weight: bold; color: #555;">
-    - Neama Al-Tahan
-  </p>
-</div>
-
+> **Programming is just like developing a Nen ability; it's not about how much code you write, but about how much precision and speed you control within your system.**
+>
+> — *Neama Al-Tahan*
 
 
 
