@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there! 👋 I'm Neama
 
-<!--
-**neamaaltahan73/neamaaltahan73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me
+I am a **Software Engineer** and a proud graduate of **Informatics Engineering** from Damascus University. Currently, I am passionate about teaching and mentoring students as a **Practical Instructor & Teaching Assistant** at **Al-Sham Private University (ASPU)**.
 
-Here are some ideas to get you started:
+I love solving complex problems, whether it's through competitive programming (ACM ICPC), modeling systems with UML, or building mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+Here are some of the technologies and tools I work with:
+
+*   **Mobile Development:** Flutter, Dart
+*   **Database Management:** Oracle, SQL Server, PostgreSQL
+*   **System Modeling:** UML, ERD
+*   **Design & Tools:** Figma, Canva
+*   **Problem Solving:** Competitive Programming, Hackathons
+
+---
+
+### 🚀 What I'm into
+*   **Teaching:** Preparing lab sessions and supervising student projects.
+*   **Learning:** Exploring new database architectures and refining my UI/UX skills.
+*   **Community:** Engaging in volunteer initiatives and knowledge sharing.
+
+---
+
+### 📫 Let's Connect
+*   **LinkedIn:** [Add your link here]
+*   **Telegram:** [Add your link here]
+*   **Email:** [Add your email here]
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neamaaltahan73&show_icons=true&theme=radical" alt="Neama's GitHub stats" />
+</p>
