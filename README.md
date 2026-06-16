@@ -42,16 +42,7 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### ⚡ My Tech Stack, Killua-Style!
 
-<p align="left">
-  <img src="https://img.shields.io/badge/FLUTTER-⚡️ELECTRIC_SPEED-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/DART-ZOLDYCK_PRECISION-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/REACT-LIGHTNING_RESPONSIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ORACLE-ZOLDYCK_SECURITY-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/POSTGRESQL-SOLID_FOUNDATION-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 </p>
