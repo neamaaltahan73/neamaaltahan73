@@ -56,11 +56,6 @@ Here are some of the technologies and tools I work with:
     - Neama Al-Tahan
   </p>
 </div>
-  <p style="color: #ffffff; text-align: right;">
-    - Neama Al-Tahan
-  </p>
-</blockquote>
-
 
 
 
