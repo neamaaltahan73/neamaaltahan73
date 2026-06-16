@@ -11,15 +11,14 @@ I have a strong focus on **Front-end Development**, building responsive and user
 
 ---
 
-### 🛠 Tech Stack
-Here are some of the technologies and tools I work with:
-
-*   **Mobile Development:** Flutter, Dart
-*   **Database Management:** Oracle, SQL Server, PostgreSQL
-*   **System Modeling:** UML, ERD
-*   **Design & Tools:** Figma, Canva
-*   **Problem Solving:** Competitive Programming, Hackathons
-
+*  ### 🛠 Technical Skills
+   Here are some of the technologies and tools I work with:
+*   📱 **Mobile Development**: Flutter, Dart.
+*   🗄️ **Database Management**: Oracle, SQL Server, MySQL.
+*   🌐 **Web Development (Front-end)**: React, JavaScript, HTML5, CSS3.
+*   📊 **System Modeling**: UML, ERD.
+*   🎨 **Design & Tools**: Figma, Canva.
+*   💻 **Problem Solving**: Competitive Programming, Hackathons.
 ---
 
 ### 🚀 What I'm into
