@@ -42,6 +42,9 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZHo0YmxzZWxleHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/12xMvwR9c48H4k/giphy.gif" alt="Sonic and Heart" width="200" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZHo0YmxzZWxleHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/12xMvwR9c48H4k/giphy.gif" alt="Sonic and Heart" width="200" />
