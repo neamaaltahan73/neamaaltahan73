@@ -48,3 +48,18 @@ Here are some of the technologies and tools I work with:
 
 
 
+<blockquote style="background-color: #1a1a2e; padding: 20px; border-radius: 10px; border-left: 5px solid #00d2ff;">
+  <p style="color: #00d2ff; font-style: italic;">
+    "Programming is just like developing a Nen ability; it's not about how much code you write, but about how much precision and speed you control within your system."
+  </p>
+  <p style="color: #ffffff; text-align: right;">
+    - Neama Al-Tahan
+  </p>
+</blockquote>
+
+
+
+
+
+
+
